@@ -1,14 +1,10 @@
 # Anime-Recommendation
 
-Rar file - https://drive.google.com/open?id=13W7Do521l2YmoZOUGFeeb2q5ttZ5C5R-
-
-The RAR files includes:
 
 1. ipynb file – Main code
 2. anime(1).csv
 3. rating.csv
-4. ppt
-5. Executed code with output (pdf)
+4. Executed code with output (pdf)
 
 Steps to execute :
 1. Open ipynb file in Google Colab
