@@ -5,7 +5,7 @@ Contents :
 1. ipynb file – Main code
 2. anime(1).csv
 3. rating.zip (First extract to obtain rating.csv)
-4. Executed code with output (pdf)
+
 
 Steps to execute :
 1. Open ipynb file in Google Colab
